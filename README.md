@@ -1,2 +1,2 @@
 # coursera-test
-Coursers test repositary
+Coursera test repositary
